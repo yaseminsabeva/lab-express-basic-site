@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.welcome-text {
+  width: 40%;
+  margin-top: 10%;
+  margin-right: 50px;
+}
